@@ -1,2 +1,2 @@
-# mlcourse.ai-solution
-My mlcourse.ai solution
+# [mlcourse.ai](https://mlcourse.ai/) solution
+My [https://mlcourse.ai](https://mlcourse.ai/) solution
