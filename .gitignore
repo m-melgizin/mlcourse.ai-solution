@@ -12,3 +12,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+### Data ###
+# https://drive.google.com/file/d/1kOEcWtcTbbrlhVf1wlYtFQUF_kY92U5O
+data/flights_2008.csv.bz2
