@@ -15,3 +15,5 @@ __pycache__/
 ### Data ###
 # https://drive.google.com/file/d/1kOEcWtcTbbrlhVf1wlYtFQUF_kY92U5O
 data/flights_2008.csv.bz2
+# https://drive.google.com/file/d/12OPgwkx5Q63iqxXGR3MqZQpiMev_aB7g
+data/movie_reviews_train.csv.zip
