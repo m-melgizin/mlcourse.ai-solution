@@ -17,3 +17,8 @@ __pycache__/
 data/flights_2008.csv.bz2
 # https://drive.google.com/file/d/12OPgwkx5Q63iqxXGR3MqZQpiMev_aB7g
 data/movie_reviews_train.csv.zip
+# https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
+data/UCI_HAR_Dataset.zip
+data/UCI_HAR_Dataset/
+# datasets.fetch_lfw_people
+data/faces/
